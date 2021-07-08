@@ -1,6 +1,6 @@
 # UI Assessment Chicago Food Planet
 ### Short Summary of tools and technologies used:
-- HTML5, CSS
+- HTML5, CSS3
 
 - Visual Studio Code
 
